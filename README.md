@@ -1,5 +1,9 @@
 ### Hi there 👋, I, Artyom Boyko! 😌 
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 - 🔭 I am currently working on translating HuggingFace courses into Russian.
 - 🌱 I'm currently studying machine learning and deep neural networks, especially Transformers.
 - 📫 How to reach me: blademoon@yandex.ru
