@@ -1,16 +1,16 @@
 ### Hi there 👋, I, Artem Boyko! 😌 
 
+- 🔭 I am currently working on translating HuggingFace courses into Russian.
+- 🌱 I'm currently studying machine learning and deep neural networks, especially Transformers.
 - 📫 How to reach me: blademoon@yandex.ru
-
-
+- ⚡ Fun fact: I love cats 🐈, programming 👨‍💻, running 🏃, and coffee ☕ )))
 
 <!--
 **blademoon/blademoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
