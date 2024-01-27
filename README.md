@@ -11,9 +11,16 @@
 
 ## Some statistics...
 
-![Artyom's GitHub stats](https://github-readme-stats.vercel.app/api?username=blademoon&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-[![Artyom's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=blademoon&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=blademoon&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=blademoon&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
 
 <!--
 **blademoon/blademoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
