@@ -1,4 +1,4 @@
-### Hi there 👋, I, Artyom Boyko! 😌 
+### Hi there 👋, I'am, Artyom Boyko! 😌 
 
 - 🔭 I am currently working on translating HuggingFace courses into Russian.
 - 🌱 I'm currently studying machine learning and deep neural networks, especially Transformers.
