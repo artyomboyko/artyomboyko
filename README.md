@@ -1,7 +1,5 @@
 ### Hi there 👋, I'am, Artyom Boyko! 😌 
 
-- 🔭 I am currently working on translating HuggingFace courses into Russian.
-- 🌱 I'm currently studying machine learning and deep neural networks, especially Transformers.
 - 📫 How to reach me: blademoon05@gmail.com
 - ⚡ Fun fact: I love cats 🐈, programming 👨‍💻, running 🏃, and coffee ☕ )))
 
