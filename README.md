@@ -63,8 +63,8 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/artyomboyko/ai-methods">AI Methods</a></h3>
-      <p>Practical notebooks and scripts for exploring fine-tuning, LoRA, QLoRA, PEFT, quantization, inference, and evaluation of neural networks, LLMs, and VLMs.</p>
-      <p><strong>Focus:</strong> Fine-tuning · PEFT · Quantization · LLM/VLM Evaluation</p>
+      <p>Practical notebooks for LLM fine-tuning with Prompt Tuning, LoRA, and QLoRA, Whisper fine-tuning for Russian ASR, post-training quantization, inference, and measurable evaluation.</p>
+      <p><strong>Focus:</strong> LLM Fine-tuning · PEFT · ASR · Quantization · Evaluation</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/artyomboyko/Prompt_Engineer_Portfolio">Prompt Engineering Portfolio</a></h3>
